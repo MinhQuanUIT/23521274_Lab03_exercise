@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id btButton
+id buttonAction
+id listView
+id textDescription
+id textTitle
+id tvHome
+id tvName
+layout activity_main
+layout item_row
+layout item_user
+string app_name

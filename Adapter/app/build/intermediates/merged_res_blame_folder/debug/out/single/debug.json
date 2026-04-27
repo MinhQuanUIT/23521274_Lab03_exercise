@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\quanm\\.gradle\\daemon\\9.0-milestone-1\\com.example.adapterapp-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\quanm\\.gradle\\daemon\\9.0-milestone-1\\com.example.adapterapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\quanm\\.gradle\\daemon\\9.0-milestone-1\\com.example.adapterapp-merged_res-31:\\layout_item_user.xml.flat",
+        "source": "C:\\Users\\quanm\\.gradle\\daemon\\9.0-milestone-1\\com.example.adapterapp-main-33:\\layout\\item_user.xml"
+    },
+    {
+        "merged": "com.example.adapterapp-merged_res-31:/layout_item_user.xml.flat",
+        "source": "com.example.adapterapp-main-33:/layout/item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\quanm\\.gradle\\daemon\\9.0-milestone-1\\com.example.adapterapp-merged_res-31:\\layout_item_person.xml.flat",
+        "source": "C:\\Users\\quanm\\.gradle\\daemon\\9.0-milestone-1\\com.example.adapterapp-main-33:\\layout\\item_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\quanm\\.gradle\\daemon\\9.0-milestone-1\\com.example.adapterapp-merged_res-31:\\layout_item_row.xml.flat",
+        "source": "C:\\Users\\quanm\\.gradle\\daemon\\9.0-milestone-1\\com.example.adapterapp-main-33:\\layout\\item_row.xml"
+    }
+]
